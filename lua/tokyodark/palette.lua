@@ -2,8 +2,8 @@ local config = require("tokyodark.config")
 local utils = require("tokyodark.utils")
 
 local palette = {
-    black = "#06080A",
-    bg0 = "#11121D",
+    black = "#363b54",
+    bg0 = "#08080b",
     bg1 = "#1A1B2A",
     bg2 = "#212234",
     bg3 = "#353945",
@@ -20,14 +20,14 @@ local palette = {
     diff_delete = "#281B27",
     diff_text = "#1C4474",
     fg = "#A0A8CD",
-    red = "#EE6D85",
-    orange = "#F6955B",
-    yellow = "#D7A65F",
-    green = "#95C561",
-    blue = "#7199EE",
-    cyan = "#38A89D",
+    red = "#f7768e",
+    orange = "#ff9e64",
+    yellow = "#e0af68",
+    green = "#41a6b5",
+    blue = "#7aa2f7",
+    cyan = "#7dcfff",
     purple = "#A485DD",
-    grey = "#4A5057",
+    grey = "#acb0d0",
     none = "NONE",
 }
 
